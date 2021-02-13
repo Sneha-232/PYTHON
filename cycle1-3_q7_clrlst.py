@@ -1,0 +1,6 @@
+clr_list1=set(['red','green','blue','black','yellow','white'])
+clr_list2=set(['black','green','cyan','orange','yellow'])
+print(clr_list1)
+print(clr_list2)
+print("The difference of list :")
+print(clr_list1.difference(clr_list2))
